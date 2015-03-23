@@ -24,7 +24,7 @@ npm install -g yo grunt-cli bower
 ```
 Clone this project locally and call npm link (and reset the console) to be able to do `yo angular-rails` easily
 ```
-git clone git@github.com:sheniff/generator-angular-rails.git
+git clone git@github.com:sheniff/generator-angular-rails.git && cd generator-angular-rails
 npm link
 reset
 ```
